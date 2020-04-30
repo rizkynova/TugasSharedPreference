@@ -11,11 +11,12 @@ import com.example.rizkynova.R;
 import com.example.rizkynova.sharedpreferences.utils.Preferences;
 
 /*
-
-Nama  : Rizky Novayandi
-Kelas : IF4
-NIM   : 10117140
-Email : rizkynovayandiofficial@gmail.com
+Tanggal : 1 Mei 2020 01:48
+Jam     : 01:48 WIB
+Nama    : Rizky Novayandi
+Kelas   : IF4
+NIM     : 10117140
+Email   : rizkynovayandiofficial@gmail.com
 
  */
 

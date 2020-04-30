@@ -1,11 +1,12 @@
 package com.example.rizkynova.sharedpreferences.utils;
 
 /*
-
-Nama  : Rizky Novayandi
-Kelas : IF4
-NIM   : 10117140
-Email : rizkynovayandiofficial@gmail.com
+Tanggal : 1 Mei 2020 01:48
+Jam     : 01:48 WIB
+Nama    : Rizky Novayandi
+Kelas   : IF4
+NIM     : 10117140
+Email   : rizkynovayandiofficial@gmail.com
 
  */
 
